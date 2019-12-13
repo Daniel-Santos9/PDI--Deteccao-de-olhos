@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\funcoes.o
+./release\histograma.o
+./release\limiarizacao.o
+./release\meth_otsu.o
+./release\coletaPontos.o
+./release\layer.o
+./release\mlp.o
+./release\neuron.o
+./release\treina.o
+./release\dendrite.o
+./release\gravaDados.o
+);

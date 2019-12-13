@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\funcoes.o
+./debug\histograma.o
+./debug\limiarizacao.o
+./debug\meth_otsu.o
+./debug\coletaPontos.o
+./debug\layer.o
+./debug\mlp.o
+./debug\neuron.o
+./debug\treina.o
+./debug\dendrite.o
+./debug\gravaDados.o
+);
